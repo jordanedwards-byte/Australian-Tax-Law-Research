@@ -1,6 +1,6 @@
 # Australian Tax Law Research
 
-This repository contains structured research on key areas of Australian tax law.
+This repository contains structured research on key areas of Australian tax law. Some resources that do not fit into any category are not indexed.
 
 ## Index
 - 100A
