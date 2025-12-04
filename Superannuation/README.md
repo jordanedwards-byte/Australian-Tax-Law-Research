@@ -1,6 +1,6 @@
 # Superannuation
 
-This section covers research and resources related to **Superannuation**.
+This section covers research and resources related to Australian Superannuation.
 
 - Legislation references
 - Case law summaries
