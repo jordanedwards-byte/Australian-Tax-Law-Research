@@ -5,8 +5,6 @@ This repository contains structured research on key areas of Australian tax law.
 ## Index
 - 100A
 - 99B
-- AASB standards
-- APS
 - CCH seminars
     - Seminars
 - CGT
@@ -26,7 +24,6 @@ This repository contains structured research on key areas of Australian tax law.
 - Individuals
 - Insolvency
 - International tax
-- Jobkeeper
 - Listed entity merger and acquisitions
 - Losses
 - Paper returns, schedules and instructions
@@ -37,12 +34,6 @@ This repository contains structured research on key areas of Australian tax law.
 - Property development
 - Rates and thresholds
 - Residency
-- RTAN tax forum
-    - RTAN Forum - November 2024
-    - RTAN Forum - November 2025
-    - RTAN Tax Forum - August 2024
-    - RTAN Tax Forum - August 2025
-    - RTAN Tax Forum - February 2025
 - State taxes
 - Superannuation
 - Tax Banter seminar notes
