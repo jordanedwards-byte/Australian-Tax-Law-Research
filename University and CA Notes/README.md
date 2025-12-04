@@ -1,7 +1,3 @@
 # University and CA Notes
 
-This section covers research and resources related to **University and CA Notes**.
-
-- Legislation references
-- Case law summaries
-- Notes and PDFs
+This section contains my own personal study notes from when I was studying in university and for the CAANZ program.
