@@ -1,0 +1,53 @@
+# Australian Tax Law Research
+
+This repository contains structured research on key areas of Australian tax law.
+
+## Index
+- 100A
+- 99B
+- AASB standards
+- APS
+- CCH seminars
+    - Seminars
+- CGT
+    - Small Business CGT
+- Company
+- Crypto
+- Debt forgiveness
+- Depreciation
+- Div 7A
+- Employee share schemes (ESS)
+- Employee v contractor
+- Family law and tax
+- FBT
+- GST
+- Home office
+- Income tax consolidation
+- Individuals
+- Insolvency
+- International tax
+- Jobkeeper
+- Listed entity merger and acquisitions
+- Losses
+- Paper returns, schedules and instructions
+    - 2024
+- Part IVA
+- Payroll tax (Vic)
+- Personal services income (PSI)
+- Property development
+- Rates and thresholds
+- Residency
+- RTAN tax forum
+    - RTAN Forum - November 2024
+    - RTAN Forum - November 2025
+    - RTAN Tax Forum - August 2024
+    - RTAN Tax Forum - August 2025
+    - RTAN Tax Forum - February 2025
+- State taxes
+- Superannuation
+- Tax Banter seminar notes
+- Tax disputes
+- Tax Institute Local Tax Club Papers
+- Trusts
+    - Family Trust Elections and Interposed Entity Elections
+- University and CA Notes
